@@ -1,6 +1,6 @@
 - 👋 Hi, I’m keshav sharma @KeshavSharma-IT
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Web Devlopment
+- 🌱 Keep Learning new things
 - 📫 you can send a e-mail to sharmakeshav802@gmail.com
 
 <!---
